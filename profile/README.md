@@ -11,7 +11,7 @@ C23-PS054
 - Constantine Dylan (Tech - Cloud/Web/Backend/Frontend, Business/Commerce/Startup, Ideation/UI & UX)
 
 **Members**:
-| Learning Path | ID |  Name | University | Activity |
+| Learning Path | ID |  Name | University | Status |
 | --- | --- |  --- | --- |  --- |
 | Machine Learning | M038DKY4359 |  Sylvia Hamidah | Institut Teknologi Sepuluh Nopember |  Active |
 | Machine Learning | M151DSY2527 |  Fitria Kusuma Dewi | Universitas Brawijaya |  Active |
